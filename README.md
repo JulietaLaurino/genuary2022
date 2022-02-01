@@ -50,6 +50,6 @@ All prompts can be found here: https://genuary.art/
 <img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day21/combination.png" height="500">
 
 ## [Day 25 - Perspective](https://github.com/JulietaLaurino/genuary2022/blob/main/Day25/perspective.R)
-<img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day25/perspective.gif)" height="500">
+<img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day25/perspective.gif" height="500">
 
 
