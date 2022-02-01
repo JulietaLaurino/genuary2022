@@ -35,10 +35,10 @@ All prompts can be found here: https://genuary.art/
 <img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day11/no_computer.jpg" height="500">
 
 ## [Day 12 - Packing](https://github.com/JulietaLaurino/genuary2022/blob/main/Day12/packing.R)
-<img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day12/packing.png">
+<img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day12/packing.png" height="500">
 
 ## [Day 13 - 80x800](https://github.com/JulietaLaurino/genuary2022/blob/main/Day13/80x800.R)
-<img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day13/noisy_circles.png" height="500">
+<img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day13/noisy_circles.png">
 
 ## [Day 17 - 3 colors](https://github.com/JulietaLaurino/genuary2022/blob/main/Day17/3colors.R)
 <img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day17/3colors.png" height="500">
