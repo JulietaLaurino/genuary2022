@@ -49,7 +49,7 @@ All prompts can be found here: https://genuary.art/
 ## [Day 21 - Combine two (or more) of your pieces from previous days to make a new piece](https://github.com/JulietaLaurino/genuary2022/blob/main/Day21/combination.R)
 <img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day21/combination.png" height="500">
 
-## [Day 25 - Perspective](https://github.com/JulietaLaurino/genuary2022/blob/main/Day21/perspective.R)
-<img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day21/perspective.gif)" height="500">
+## [Day 25 - Perspective](https://github.com/JulietaLaurino/genuary2022/blob/main/Day25/perspective.R)
+<img src="https://github.com/JulietaLaurino/genuary2022/blob/main/Day25/perspective.gif)" height="500">
 
 
